@@ -13,6 +13,11 @@
     <dependencies>
         <dependency>
             <groupId>com.banda</groupId>
+            <artifactId>banda-common</artifactId>
+            <version>${parent.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.banda</groupId>
             <artifactId>banda-facade</artifactId>
             <version>${parent.version}</version>
         </dependency>

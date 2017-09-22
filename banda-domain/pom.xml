@@ -12,6 +12,11 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
+        <groupId>com.banda</groupId>
+        <artifactId>banda-common</artifactId>
+        <version>${parent.version}</version>
+    </dependency>
+        <dependency>
             <groupId>com.banda</groupId>
             <artifactId>banda-model</artifactId>
             <version>${parent.version}</version>
